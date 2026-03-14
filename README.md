@@ -13,6 +13,7 @@ The dataset file **News.csv** contains news articles with the following informat
 * **class** – indicates whether the article is real (1) or fake (0)
 
 Other fields such as title, subject, and date are removed during preprocessing because the main analysis focuses on the article text.
+Link: https://www.kaggle.com/datasets/subho117/fake-news-detection-using-machine-learning?resource=download
 
 ## Main Steps
 
